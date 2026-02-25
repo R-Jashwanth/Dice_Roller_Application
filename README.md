@@ -1,4 +1,4 @@
-# Dice Roller App
+#🎲 Dice Roller App
 
 A simple and interactive Android application built using Kotlin and
 Jetpack Compose.\
@@ -89,6 +89,4 @@ modern Android UI development.
 
 ------------------------------------------------------------------------
 
-## Author
 
-Jashwanth R
